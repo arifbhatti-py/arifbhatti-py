@@ -1,10 +1,18 @@
 ![Arif](arifbhatti.jfif)
 
-### 📊 Data Scientist | 🤖 Machine Learning | 🧠 AI
+<h4 align="center">
+  <code>📊 Data Scientist | 🤖 Machine Learning & AI</code>
+</h4>
 
-[![GitHub followers](https://img.shields.io/github/followers/arifbhatti-py?style=for-the-badge)](https://github.com/arifbhatti-py?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/arifbhatti-py?style=for-the-badge)](https://github.com/arifbhatti-py?tab=repositories)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=arifbhatti-py.arifbhatti-py)
+<p align="center">
+  <a href="https://github.com/arifbhatti-py?tab=followers">
+    <img src="https://img.shields.io/github/followers/arifbhatti-py?style=for-the-badge" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/arifbhatti-py?tab=repositories">
+    <img src="https://img.shields.io/github/stars/arifbhatti-py?style=for-the-badge" alt="GitHub stars">
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbhatti-py.arifbhatti-py" alt="Visitors">
+</p>
 
 ## 📌 What I Do
 
