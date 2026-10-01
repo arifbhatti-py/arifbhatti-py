@@ -16,17 +16,7 @@
 
 ## 🧰 Tech Stack
 
-### Data Science & Machine Learning
-
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,xgboost)](https://skillicons.dev)
-
-### Development & Deployment
-
-[![My Skills](https://skillicons.dev/icons?i=streamlit,fastapi,git,github)](https://skillicons.dev)
-
-### Deep Learning & AI
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,mlflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,streamlit,fastapi,git,github,pytorch,tensorflow&perline=9)](https://skillicons.dev)
 
 ---
 
