@@ -17,6 +17,12 @@
 ## 🧰 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,fastapi,git,github,pytorch,tensorflow&perline=8)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="50"/>
+
 
 ---
 
