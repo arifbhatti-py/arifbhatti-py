@@ -14,11 +14,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Data Science & Machine Learning
 
-[![My Skills](https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,xgboost,scipy,mysql,matplotlib,seaborn,plotly)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,xgboost)](https://skillicons.dev)
 
 ### Development & Deployment
 
@@ -26,7 +26,7 @@
 
 ### Deep Learning & AI
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,mlflow)](https://skillicons.dev)
 
 ---
 
