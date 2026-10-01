@@ -1,4 +1,4 @@
-![Arif](arifbhatti.png)
+![Arif](arifbhatti.jfif)
 ### 📊 Data Scientist | 🤖 Machine Learning | 🧠 AI
 
 [![GitHub followers](https://img.shields.io/github/followers/arifbhatti-py?style=for-the-badge)](https://github.com/arifbhatti-py?tab=followers)
