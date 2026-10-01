@@ -1,8 +1,10 @@
-![Arif](arifbhatti.jfif)
+<div align="center">
 
-<h4 align="center">
+<img src="arifbhatti.jfif" width="100%">
+
   <code>📊 Data Scientist | 🤖 Machine Learning & AI</code>
-</h4>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/arifbhatti-py?tab=followers">
@@ -14,7 +16,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arifbhatti-py.arifbhatti-py" alt="Visitors">
 </p>
 
-## 📌 What I Do
+## ⌨️ What I Do
 
 - Work with data to identify patterns and solve real-world problems
 - Build and evaluate machine learning and deep learning models
@@ -34,8 +36,16 @@
 
 ---
 
-## Connect With Me
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arifbhatti)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arifbhatti58)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifbhatti619@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/arifbhatti">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/arifbhatti58">
+    <img src="https://img.shields.io/badge/Follow%20On%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:arifbhatti619@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
