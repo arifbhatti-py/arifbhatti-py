@@ -2,7 +2,7 @@
 
 <img src="arifbhatti.jfif" width="100%">
 
-  <code>📊 Data Scientist | 🤖 Machine Learning & AI</code>
+<strong><code>📊 Data Scientist | 🤖 Machine Learning & AI</code></strong>
 
 </div>
 
