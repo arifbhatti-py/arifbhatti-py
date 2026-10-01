@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,streamlit,fastapi,git,github,pytorch,tensorflow&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,mysql,fastapi,git,github,pytorch,tensorflow&perline=8)](https://skillicons.dev)
 
 ---
 
